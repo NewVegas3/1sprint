@@ -5,6 +5,8 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Enter the number of elements you wish to enter: ");
+
         while (true) {
             int i = scanner.nextInt();
         }
